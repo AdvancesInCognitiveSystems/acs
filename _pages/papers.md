@@ -53,7 +53,7 @@ This page is still being updated.
 - [Adaptive Event Retrieval for Episodic Memory]({{ site.baseurl }}/data/ACS2020_paper_22.pdf).	Colm Flanagan and Claude Sammut. 
 - [Towards Goal Inference for Human-Robot Collaboration]({{ site.baseurl }}/data/ACS2020_paper_24.pdf). Shree Gotteti, Matthew Molineaux and Michael Cox. 
 - [A Model and a Method to Study Agency, Adaptation and Adult Development]({{ site.baseurl }}/data/ACS2020_paper_34.pdf). Roger Gould. 
-- [What Possible Use Could Consciousness Be?]({{ site.baseurl }}/data/ACS2020_paper_43.pdf). Jousha Bensemann and Michael Whitbrock.
+- [What Possible Use Could Consciousness Be?]({{ site.baseurl }}/data/ACS2020_paper_43.pdf). Jousha Bensemann and Michael Witbrock.
 
 
 
