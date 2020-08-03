@@ -41,7 +41,7 @@ Memorial Panel for Patrick Winston.
 3. [Analogy versus Rules in Cognitive Architecture]({{ site.baseurl }}/data/ACS2020_paper_13.pdf).	Kenneth Forbus, Tom Hinrichs, Maxwell Crouse and Joseph Blass.
 4. [Strategies for Visuospatial Reasoning: Experiments in Sufficiency and Diversity]({{ site.baseurl }}/data/ACS2020_paper_33.pdf). James Ainooson, Joel Michelson, Deepayan Sanyal, Joshua Palmer and Maithilee Kunda.
 
-3:30 pm - 4:30 pm, Technical Talks 4: Short Talks
+3:30 pm - 4:30 pm, Short Technical Talks
 ----
 1. [System-wide Monitoring for Anomaly Detection]({{ site.baseurl }}/data/ACS2020_paper_41.pdf). Leilani Gilpin
 2. [Quotation for Real-Time Metacognition]({{ site.baseurl }}/data/ACS2020_paper_18.pdf). Matthew D. Goldberg, Darsana Josyula, and Don Perlis.
