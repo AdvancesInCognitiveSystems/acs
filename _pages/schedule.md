@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tentative Schedule
+title: Schedule
 permalink: /schedule/
 ---
 
-[ACS Preliminary Schedule](https://github.com/AdvancesInCognitiveSystems/acs/raw/master/data/ACS-2020%20Conference%20Program.pdf)
+The preliminary schedule for ACS 2020 can be found at [here](https://github.com/AdvancesInCognitiveSystems/acs/raw/master/data/ACS-2020%20Conference%20Program.pdf)
