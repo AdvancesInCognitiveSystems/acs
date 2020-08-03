@@ -7,7 +7,7 @@ permalink: /day2/
 Please note that all times are Pacific Standard Time (GMT-7)
 
 8:30 am - 9:30 am      Invited Talk 3: Cynthia Matuszek
----
+----
 
 ---
 #### 9:30 am - 10:30 am     Poster Session 3 
@@ -23,32 +23,26 @@ Please note that all times are Pacific Standard Time (GMT-7)
 
 1. [The CREDO Stack: From Theory to Practice in Cognitive Systems Design]({{ site.baseurl }}/data/ACS2020_paper_9.pdf). John Fox.
 2. [Goal Elicitation Planning: Reasoning and Acting to Reveal Another Agent's Goal]({{ site.baseurl }}/data/ACS2020_paper_2.pdf). Adam Amos-Binks and Rogelio E.Cardona-Rivera.
+3. [Recognizing the Goals of Uninspectable Agents]({{ site.baseurl }}/data/ACS2020_paper_17.pdf). Irina Rabkina, Pavan Kantharaju, Jason Wilson, Mark Roberts, Kenneth Forbus, and Laura Hiatt.
+4. [The Problem with Problems]({{ site.baseurl }}/data/ACS2020_paper_1.pdf). Michael Cox.
 
 ---
-#### 12:00 pm - 12:30 pm    Break
+#### 12:15 pm - 12:45 pm    Break
 
 ---
-#### 12:30 pm - 2:00 pm     Technical Talks 2: Learning and Planning
-
-1. [The Visual Narrative Engine: A Computational Model of the Visual Narrative Parallel Architecture]({{ site.baseurl }}/data/ACS2020_paper_40.pdf). Chris Martens, Rogelio E. Cardona-Rivera, and Neil Cohn.
-2. [Learning Procedures by Augmenting Sequential Pattern Mining with Planning Knowledge]({{ site.baseurl }}/data/ACS2020_paper_26.pdf). Melinda Gervasio and Karen Myers.
-3. [Learning Hybrid Models for Variable Impedance Control of Changing-Contact Manipulation Tasks]({{ site.baseurl }}/data/ACS2020_paper_30.pdf). Saif Sidhik, Mohan Sridharan, and Dirk Ruiken.
+#### 12:45 pm - 2:30 pm     Herbert A. Simon Prize for Advances in Cognitive Systems: Memorial Colloquium for Patrick Winston
 
 ---
-#### 2:00 pm - 2:30 pm      Break
+
+#### 2:30 pm - 3:30 pm      Poster Session 4
 
 ---
-#### 3:00 pm - 4:00 pm      Fireside Chat - Gary Marcus and Ken Forbus
+#### 3:30 pm - 4:30 pm     Technical Talks 4: Short Talks
 
 ---
 #### 3:00 pm - 4:00 pm    Poster Session 2
 
-1. [Policy Regression for Monitoring Execution in Goal Reasoning Systems]({{ site.baseurl }}/data/ACS2020_paper_11.pdf). Noah Reifsnyder and Hector Munoz-Avila.
-2. [What Possible Use Could Consciousness Be?]({{ site.baseurl }}/data/ACS2020_paper_43.pdf). Jousha Bensemann and Michael Witbrock.
-3. [Modeling Gestalt Visual Reasoning on Raven's progressive Matrices Using Generative Image Inpainting Techniques]({{ site.baseurl }}/data/ACS2020_paper_29.pdf). Tianyu Hua and Maithilee Kunda.
-4. [Forgetting-Sensitive Referring Expression Generation for Integrated Robot Architectures]({{ site.baseurl }}/data/ACS2020_paper_36.pdf). Tom Williams, Torin Johnson, Will Culpepper and Kellyn Larson. 
-
 ---
-#### 5:00 pm - 6:00 pm   Business Meeting
+#### 5:30 pm - 6:30 pm   Student Mentoring
 
 ---
