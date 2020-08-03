@@ -1,22 +1,17 @@
 ---
 layout: post
 title:  "Tuesday, August 11th"
-permalink: /day1/
+permalink: /day2/
 ---
 
 Please note that all times are Pacific Standard Time (GMT-7)
 
 ---
-#### 8:00 am - 8:30 am      Welcome and Logistics 
+#### 8:30 am - 9:30 am      Invited Talk 3: Cynthia Matuszek
 ---
-#### 8:30 am - 9:30 am      Invited Talk 1: Andrew Gordon
----
-#### 9:30 am - 10:30 am     Poster Session 1 
+#### 9:30 am - 10:30 am     Poster Session 3 
 
-1. [Instructing a Cognitive Agent to Perform Sensemaking in Intelligence, Surveillance and Reconnaissance]({{ site.baseurl }}/data/ACS2020_paper_39.pdf). Gheorghe Tecuci, Dorin Marcu, Mihai Boicu and Louis Kaiser.
-2. [Learning Hierarchical Task Networks with Landmarks and Numeric Fluents by Combining Symbolic and Numeric Regression]({{ site.baseurl }}/data/ACS2020_paper_8.pdf). Morgan Fine-Morris, Bryan Auslander, Michael W. Floyd, Greg Pennisi, Héctor Muñoz-Avila and Kalyan Moy Gupta. 
-3. [Adaptive Event Retrieval for Episodic Memory]({{ site.baseurl }}/data/ACS2020_paper_22.pdf).	Colm Flanagan and Claude Sammut
-4.  [Dempster-Shafer Theoretic Learning of Indirect Speech Act Comprehension Norms]({{ site.baseurl }}/data/ACS2020_paper_7.pdf). Ruchen Wen, Mohammed Aun Siddiqui and Thomas Williams.
+1. [OntoAgent: Implementing Content-Centric Cognitive Models]({{ site.baseurl }}/data/ACS2020_paper_16.pdf).Jesse English and Sergei Nirenburg.
 
 ---
 #### 10:30 am - 12:00 pm    Technical Talks 1: Language
