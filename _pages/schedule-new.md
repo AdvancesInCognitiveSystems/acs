@@ -6,9 +6,9 @@ permalink: /schedule-new/
 
 <ul>
   {% for post in site.posts %}
-    <li>
+    <h3>
       <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    </h3>
   {% endfor %}
 </ul>
 
