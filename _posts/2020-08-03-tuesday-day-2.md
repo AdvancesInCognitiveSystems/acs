@@ -9,8 +9,9 @@ Please note that all times are Pacific Standard Time (GMT-7)
 8:30 am - 9:30 am    Cynthia Matuszek, Invited Talk
 ----
 
----
-#### 9:30 am - 10:30 am     Poster Session 3 
+
+9:30 am - 10:30 am     Poster Session 3
+----
 
 1. [OntoAgent: Implementing Content-Centric Cognitive Models]({{ site.baseurl }}/data/ACS2020_paper_16.pdf).Jesse English and Sergei Nirenburg.
 2. [Computing Numeric Expectations for Cognitive Agents]({{ site.baseurl }}/data/ACS2020_paper_12.pdf). Noah Reifsnyder and Hector Munoz-Avila.
