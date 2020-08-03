@@ -3,7 +3,7 @@ layout: page
 title: Accepted Papers
 permalink: /papers/
 ---
-This page is still being updated.
+
 
 ## Long talks
 - [The Problem with Problems]({{ site.baseurl }}/data/ACS2020_paper_1.pdf). Michael Cox. 
