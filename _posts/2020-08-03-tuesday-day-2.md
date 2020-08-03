@@ -12,13 +12,15 @@ Please note that all times are Pacific Standard Time (GMT-7)
 #### 9:30 am - 10:30 am     Poster Session 3 
 
 1. [OntoAgent: Implementing Content-Centric Cognitive Models]({{ site.baseurl }}/data/ACS2020_paper_16.pdf).Jesse English and Sergei Nirenburg.
-
+2. [Computing Numeric Expectations for Cognitive Agents]({{ site.baseurl }}/data/ACS2020_paper_12.pdf). Noah Reifsnyder and Hector Munoz-Avila.
+3. [Anticipatory Thinking: A New Frontier for Automated Planning]({{ site.baseurl }}/data/ACS2020_paper_21.pdf).	Adam Amos-Binks, Dustin Dannenhauer, Gene Brewer and Rogelio E. Cardona-Rivera. 
+4. [A Model and a Method to Study Agency, Adaptation and Adult Development]({{ site.baseurl }}/data/ACS2020_paper_34.pdf). Roger Gould. 
+5. Interactions with Cynthia Matuszek
 ---
-#### 10:30 am - 12:00 pm    Technical Talks 1: Language
+#### 10:30 am - 12:15 pm    Technical Talks 3: Goal Reasoning
 
-1. [Content-Centric Computational Cognitive Modeling]({{ site.baseurl }}/data/ACS2020_paper_15.pdf). Sergei Nirenburg, Marjorie McShane, and Jesse English.
-2. [Neurosymbolic AI for Situated Language Understanding]({{ site.baseurl }}/data/ACS2020_paper_14.pdf). Nikhil Krishnaswamy and James Pustejovsky.
-3. [A Broader Range for 'Meaning the Same Thing': Human Against Machine on Hard Paraphrase Detection Tasks]({{ site.baseurl }}/data/ACS2020_paper_28.pdf). Jamie Macbeth, Ella Chang, Yining Hua, Gin Chen, Sandra Grandic, and Winnie Zheng.
+1. [The CREDO Stack: From Theory to Practice in Cognitive Systems Design]({{ site.baseurl }}/data/ACS2020_paper_9.pdf). John Fox.
+2. [Goal Elicitation Planning: Reasoning and Acting to Reveal Another Agent's Goal]({{ site.baseurl }}/data/ACS2020_paper_2.pdf). Adam Amos-Binks and Rogelio E.Cardona-Rivera.
 
 ---
 #### 12:00 pm - 12:30 pm    Break
