@@ -6,8 +6,8 @@ permalink: /day2/
 
 Please note that all times are Pacific Standard Time (GMT-7)
 
----
-#### 8:30 am - 9:30 am      Invited Talk 3: Cynthia Matuszek
+--- 8:30 am - 9:30 am      Invited Talk 3: Cynthia Matuszek
+
 ---
 #### 9:30 am - 10:30 am     Poster Session 3 
 
@@ -16,6 +16,7 @@ Please note that all times are Pacific Standard Time (GMT-7)
 3. [Anticipatory Thinking: A New Frontier for Automated Planning]({{ site.baseurl }}/data/ACS2020_paper_21.pdf).	Adam Amos-Binks, Dustin Dannenhauer, Gene Brewer and Rogelio E. Cardona-Rivera. 
 4. [A Model and a Method to Study Agency, Adaptation and Adult Development]({{ site.baseurl }}/data/ACS2020_paper_34.pdf). Roger Gould. 
 5. Interactions with Cynthia Matuszek
+
 ---
 #### 10:30 am - 12:15 pm    Technical Talks 3: Goal Reasoning
 
