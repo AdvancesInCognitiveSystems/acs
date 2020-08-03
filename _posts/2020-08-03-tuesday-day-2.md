@@ -29,9 +29,6 @@ Cynthia Matuszek
 4. [The Problem with Problems]({{ site.baseurl }}/data/ACS2020_paper_1.pdf). Michael Cox.
 
 
-12:15 pm - 12:45 pm, Break
-----
-
 12:45 pm - 2:30 pm, Herbert A. Simon Prize Colloquium
 ----
 Memorial Panel for Patrick Winston.
@@ -51,8 +48,6 @@ Memorial Panel for Patrick Winston.
 3. [Model-Based Novelty Adaptation]({{ site.baseurl }}/data/ACS2020_paper_5.pdf). Matt Klenk, Wiktor Piotrowski,and Roni Stern.
 4. [Dempster-Shafer Theoretic Learning of Indirect Speech Act Comprehension Norms]({{ site.baseurl }}/data/ACS2020_paper_7.pdf). Ruchen Wen, Mohammed Aun Siddiqui, and Thomas Williams.
 
-4:30 pm - 5:00 pm, Break
-----
 
 5:30 pm - 6:30 pm, Student Mentoring
 ----
