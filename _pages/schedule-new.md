@@ -1,8 +1,14 @@
 ---
-layout: postlist
+layout: page
 title: Schedule
 permalink: /schedule-new/
 ---
 
-The preliminary schedule for ACS 2020 can be found at [here](https://github.com/AdvancesInCognitiveSystems/acs/raw/master/data/ACS-2020%20Conference%20Program.pdf)
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
