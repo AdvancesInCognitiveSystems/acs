@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Accepted Papers
+title: Tentative Schedule
 permalink: /schedule/
 ---
 
-To be determined
+
