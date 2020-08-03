@@ -43,7 +43,7 @@ This page is still being updated.
 - [Integrating Declarative Long-Term Memory Retrievals into Reinforcement Learning]({{ site.baseurl }}/data/ACS2020_paper_35.pdf). Justin Li.
 - [Toward Givenness Hierarchy Theoretic Natural Language Generation]({{ site.baseurl }}/data/ACS2020_paper_4.pdf). Poulomi Pal and Tom Williams.
 - [Computing Numeric Expectations for Cognitive Agents]({{ site.baseurl }}/data/ACS2020_paper_12.pdf). Noah Reifsnyder and Hector Munoz-Avila. 
-- [General Intelligence Requires Autonomous, Cognitive, Intentional Agents]({{ site.basurl }}/data/ACS2020_paper_19.pdf). Sean Kugele and Stan Franklin. 
+- [General Intelligence Requires Autonomous, Cognitive, Intentional Agents]({{ site.baseurl }}/data/ACS2020_paper_19.pdf). Sean Kugele and Stan Franklin. 
 - [Forgetting-Sensitive Referring Expression Generation for Integrated Robot Architectures]({{ site.baseurl }}/data/ACS2020_paper_36.pdf). Tom Williams, Torin Johnson, Will Culpepper and Kellyn Larson. 
 - [Dempster-Shafer Theoretic Learning of Indirect Speech Act Comprehension Norms]({{ site.baseurl }}/data/ACS2020_paper_7.pdf). Ruchen Wen, Mohammed Aun Siddiqui and Thomas Williams. 
 - [Analogy versus Rules in Cognitive Architecture]({{ site.baseurl }}/data/ACS2020_paper_13.pdf).	Kenneth Forbus, Tom Hinrichs, Maxwell Crouse and Joseph Blass. 
