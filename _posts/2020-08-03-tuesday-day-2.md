@@ -6,8 +6,9 @@ permalink: /day2/
 
 Please note that all times are Pacific Standard Time (GMT-7)
 
-8:30 am - 9:30 am Cynthia Matuszek, Invited Talk
+8:30 am - 9:30 am Invited Talk
 ----
+Cynthia Matuszek
 
 
 9:30 am - 10:30 am: Poster Session 3
@@ -31,25 +32,28 @@ Please note that all times are Pacific Standard Time (GMT-7)
 12:15 pm - 12:45 pm    Break
 ----
 
-12:45 pm - 2:30 pm     Herbert A. Simon Prize for Advances in Cognitive Systems: Memorial Colloquium for Patrick Winston
+12:45 pm - 2:30 pm     Herbert A. Simon Prize Colloquium
 ----
+Memorial Panel for Patrick Winston.
 
 
 2:30 pm - 3:30 pm      Poster Session 4
 ----
-
 1. [Toward Givenness Hierarchy Theoretic Natural Language Generation]({{ site.baseurl }}/data/ACS2020_paper_4.pdf). Poulomi Pal and Tom Williams.
 2. [General Intelligence Requires Autonomous, Cognitive, Intentional Agents]({{ site.baseurl }}/data/ACS2020_paper_19.pdf). Sean Kugele and Stan Franklin. 
 3. [Analogy versus Rules in Cognitive Architecture]({{ site.baseurl }}/data/ACS2020_paper_13.pdf).	Kenneth Forbus, Tom Hinrichs, Maxwell Crouse and Joseph Blass.
 4. [Strategies for Visuospatial Reasoning: Experiments in Sufficiency and Diversity]({{ site.baseurl }}/data/ACS2020_paper_33.pdf). James Ainooson, Joel Michelson, Deepayan Sanyal, Joshua Palmer and Maithilee Kunda.
 
----
-#### 3:30 pm - 4:30 pm     Technical Talks 4: Short Talks
+3:30 pm - 4:30 pm     Technical Talks 4: Short Talks
+----
+1. [System-wide Monitoring for Anomaly Detection]({{ site.baseurl }}/data/ACS2020_paper_41.pdf). Leilani Gilpin
+2. [Quotation for Real-Time Metacognition]({{ site.baseurl }}/data/ACS2020_paper_18.pdf). Matthew D. Goldberg, Darsana Josyula, and Don Perlis.
+3. [Model-Based Novelty Adaptation]({{ site.baseurl }}/data/ACS2020_paper_5.pdf). Matt Klenk, Wiktor Piotrowski,and Roni Stern.
+4. [Dempster-Shafer Theoretic Learning of Indirect Speech Act Comprehension Norms]({{ site.baseurl }}/data/ACS2020_paper_7.pdf). Ruchen Wen, Mohammed Aun Siddiqui, and Thomas Williams.
 
----
-#### 3:00 pm - 4:00 pm    Poster Session 2
+4:30 pm - 5:00 pm    Break
+----
 
----
-#### 5:30 pm - 6:30 pm   Student Mentoring
+5:30 pm - 6:30 pm   Student Mentoring
+----
 
----
