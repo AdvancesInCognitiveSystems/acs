@@ -1,5 +1,5 @@
 ---
-layout: schedule
+layout: postlist
 title: Schedule
 permalink: /schedule-new/
 ---
