@@ -24,7 +24,7 @@ permalink: /papers/
 ## Short talks
 - [System-wide Monitoring for Anomaly Detection]({{ site.baseurl }}/data/ACS2020_paper_41.pdf). Leilani Gilpin.
 - [Quotation for Real-Time Metacognition]({{ site.baseurl }}/data/ACS2020_paper_18.pdf). Matthew D. Goldberg, Darsana Josyula, and Don Perlis.
-- [Model-Based Novelty Adaptation]({{ site.baseurl }}/data/ACS2020_paper_10.pdf). Matt Klenk, Wiktor Piotrowski,and Roni Stern.
+- [Model-Based Novelty Adaptation]({{ site.baseurl }}/data/ACS2020_paper_5.pdf). Matt Klenk, Wiktor Piotrowski,and Roni Stern.
 - [The CREDO Stack: From Theory to Practice in Cognitive Systems Design]({{ site.baseurl }}/data/ACS2020_paper_9.pdf). John Fox.
 - [Dempster-Shafer Theoretic Learning of Indirect Speech Act Comprehension Norms]({{ site.baseurl }}/data/ACS2020_paper_7.pdf). Ruchen Wen, Mohammed Aun Siddiqui, and Thomas Williams.
 
