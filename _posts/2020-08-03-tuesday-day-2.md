@@ -6,7 +6,8 @@ permalink: /day2/
 
 Please note that all times are Pacific Standard Time (GMT-7)
 
---- 8:30 am - 9:30 am      Invited Talk 3: Cynthia Matuszek
+8:30 am - 9:30 am      Invited Talk 3: Cynthia Matuszek
+---
 
 ---
 #### 9:30 am - 10:30 am     Poster Session 3 
