@@ -38,6 +38,11 @@ Please note that all times are Pacific Standard Time (GMT-7)
 2:30 pm - 3:30 pm      Poster Session 4
 ----
 
+1. [Toward Givenness Hierarchy Theoretic Natural Language Generation]({{ site.baseurl }}/data/ACS2020_paper_4.pdf). Poulomi Pal and Tom Williams.
+2. [General Intelligence Requires Autonomous, Cognitive, Intentional Agents]({{ site.baseurl }}/data/ACS2020_paper_19.pdf). Sean Kugele and Stan Franklin. 
+3. [Analogy versus Rules in Cognitive Architecture]({{ site.baseurl }}/data/ACS2020_paper_13.pdf).	Kenneth Forbus, Tom Hinrichs, Maxwell Crouse and Joseph Blass.
+4. [Strategies for Visuospatial Reasoning: Experiments in Sufficiency and Diversity]({{ site.baseurl }}/data/ACS2020_paper_33.pdf). James Ainooson, Joel Michelson, Deepayan Sanyal, Joshua Palmer and Maithilee Kunda.
+
 ---
 #### 3:30 pm - 4:30 pm     Technical Talks 4: Short Talks
 
