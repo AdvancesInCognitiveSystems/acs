@@ -4,4 +4,4 @@ title: Tentative Schedule
 permalink: /schedule/
 ---
 
-
+[https://github.com/AdvancesInCognitiveSystems/acs/raw/master/data/ACS-2020%20Conference%20Program.pdf](ACS Preliminary Schedule)
