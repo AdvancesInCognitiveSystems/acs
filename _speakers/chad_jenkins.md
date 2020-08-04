@@ -2,6 +2,8 @@
 layout: speaker
 name: Chad Jenkins
 affiliation: Professor of Computer Science, University of Michigan
+date: August 12th, 2020
+time: 11:30 am - 12:30 pm
 url: https://web.eecs.umich.edu/~ocj/
 image: /images/chad.jpeg
 title: Semantic Robot Programming... and Maybe Making the World a Better Place
