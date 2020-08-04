@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Tuesday, August 11th"
-permalink: /day2/
+title:  "Wednesday, August 12th"
+permalink: /day3/
 ---
 
 Please note that all times are Pacific Standard Time (GMT-7)
