@@ -34,20 +34,11 @@ How to prepare the next generation of cognitive systems researchers? Panel moder
 Invited participants: Maithilee Kunda, Tom Williams, Justin Li, Jamie Macbeth
 
 
-2:30 pm - 3:30 pm, Poster Session 4
+2:00 pm - 3:00 pm, Poster Session 6
 ----
-1. [Toward Givenness Hierarchy Theoretic Natural Language Generation]({{ site.baseurl }}/data/ACS2020_paper_4.pdf). Poulomi Pal and Tom Williams.
-2. [General Intelligence Requires Autonomous, Cognitive, Intentional Agents]({{ site.baseurl }}/data/ACS2020_paper_19.pdf). Sean Kugele and Stan Franklin. 
-3. [Analogy versus Rules in Cognitive Architecture]({{ site.baseurl }}/data/ACS2020_paper_13.pdf).	Kenneth Forbus, Tom Hinrichs, Maxwell Crouse and Joseph Blass.
-4. [Strategies for Visuospatial Reasoning: Experiments in Sufficiency and Diversity]({{ site.baseurl }}/data/ACS2020_paper_33.pdf). James Ainooson, Joel Michelson, Deepayan Sanyal, Joshua Palmer and Maithilee Kunda.
+1. [Enabling Morally Sensitive Robotic Clarification Requests]({{ site.baseurl }}/data/ACS2020_paper_6.pdf). Ryan Blak Jackson and Tom Williams.
+2. [Coordination in Homogeneous and Heterogeneous Teams]({{ site.baseurl }}/data/ACS2020_paper_27.pdf). Othalia Larue, Ion Juvina, Michael Cox, Matt Molineaux, Brue Howard, Eric Nichols, and Brad Minnery.
+3. [A Measure of Visuospatial Skills: Painting the Big Picture]({{ site.baseurl }}/data/ACS2020_paper_20.pdf).	Joel Michelson, Deepayan Sanyal, James Ainooson and Maithilee Kunda.
 
-3:30 pm - 4:30 pm, Short Technical Talks
-----
-1. [System-wide Monitoring for Anomaly Detection]({{ site.baseurl }}/data/ACS2020_paper_41.pdf). Leilani Gilpin
-2. [Quotation for Real-Time Metacognition]({{ site.baseurl }}/data/ACS2020_paper_18.pdf). Matthew D. Goldberg, Darsana Josyula, and Don Perlis.
-3. [Model-Based Novelty Adaptation]({{ site.baseurl }}/data/ACS2020_paper_5.pdf). Matt Klenk, Wiktor Piotrowski,and Roni Stern.
-4. [Dempster-Shafer Theoretic Learning of Indirect Speech Act Comprehension Norms]({{ site.baseurl }}/data/ACS2020_paper_7.pdf). Ruchen Wen, Mohammed Aun Siddiqui, and Thomas Williams.
-
-
-5:30 pm - 6:30 pm, Student Mentoring
+3:00 pm - 4:30 pm, State of ACS
 ----
