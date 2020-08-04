@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Schedule
-permalink: /schedule-new/
+permalink: /schedule/
 ---
 
 <ul>
