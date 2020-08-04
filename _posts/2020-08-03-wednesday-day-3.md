@@ -8,30 +8,30 @@ Please note that all times are Pacific Standard Time (GMT-7)
 
 8:30 am - 9:30 am, Invited Talk
 ----
-Cynthia Matuszek
+Chad Jenkins
 
 
-9:30 am - 10:30 am, Poster Session 3
+9:30 am - 10:30 am, Poster Session 5
 ----
 
-1. [OntoAgent: Implementing Content-Centric Cognitive Models]({{ site.baseurl }}/data/ACS2020_paper_16.pdf).Jesse English and Sergei Nirenburg.
-2. [Computing Numeric Expectations for Cognitive Agents]({{ site.baseurl }}/data/ACS2020_paper_12.pdf). Noah Reifsnyder and Hector Munoz-Avila.
-3. [Anticipatory Thinking: A New Frontier for Automated Planning]({{ site.baseurl }}/data/ACS2020_paper_21.pdf).	Adam Amos-Binks, Dustin Dannenhauer, Gene Brewer and Rogelio E. Cardona-Rivera. 
-4. [A Model and a Method to Study Agency, Adaptation and Adult Development]({{ site.baseurl }}/data/ACS2020_paper_34.pdf). Roger Gould. 
-5. Interactions with Cynthia Matuszek
+1. [Integrating Declarative Long-Term Memory Retrievals into Reinforcement Learning]({{ site.baseurl }}/data/ACS2020_paper_35.pdf). Justin Li.
+2. [Implementing a Task-Oriented Time-Situated Agent]({{ site.baseurl }}/data/ACS2020_paper_32.pdf).	Darsana Josyula, Anthony Herron and Kenneth M'Bale. 
+3. [Towards Goal Inference for Human-Robot Collaboration]({{ site.baseurl }}/data/ACS2020_paper_24.pdf). Shree Gotteti, Matthew Molineaux and Michael Cox. 
+4. [Complexity of Agents in Non-stationary Environments: A Partial Computational Model]({{ site.baseurl }}/data/ACS2020_paper_37.pdf).Vadim Bulitko and Valeriy K. Bulitko.
+5. Interactions with Chad Jenkins
 
-10:30 am - 12:15 pm, Technical Talks on Goal Reasoning
+10:30 am - 12:15 pm, Technical Talks on Cognition for Complex Tasks
 ----
 
-1. [The CREDO Stack: From Theory to Practice in Cognitive Systems Design]({{ site.baseurl }}/data/ACS2020_paper_9.pdf). John Fox.
-2. [Goal Elicitation Planning: Reasoning and Acting to Reveal Another Agent's Goal]({{ site.baseurl }}/data/ACS2020_paper_2.pdf). Adam Amos-Binks and Rogelio E.Cardona-Rivera.
-3. [Recognizing the Goals of Uninspectable Agents]({{ site.baseurl }}/data/ACS2020_paper_17.pdf). Irina Rabkina, Pavan Kantharaju, Jason Wilson, Mark Roberts, Kenneth Forbus, and Laura Hiatt.
-4. [The Problem with Problems]({{ site.baseurl }}/data/ACS2020_paper_1.pdf). Michael Cox.
+1. [A Cognitive Task Analysis of Rapid Procedure Acquisition from Written Instruction]({{ site.baseurl }}/data/ACS2020_paper_42.pdf). Pat Langley, Howard Shrobe, and Boris Katz.
+2. [Characterizing an Analogical Concept Memory for Architectures Implementing the Common Model of Cognition]({{ site.baseurl }}/data/ACS2020_paper_10.pdf). Shiwali Mohan, Matthew Klenk, Matthew Shreve, Kent Evans, Aaron Ang, and John Maxwell.
+3. [Not Quite Any Way You Slice It: How Different Analogical Constructions Affect Raven's Matrices Performance]({{ site.baseurl }}/data/ACS2020_paper_25.pdf). Yuan Yang, Keith McGreggor, and Maithilee Kunda.
+4. [Optimizing Human Performance using Individualized Computational Models of Learning]({{ site.baseurl }}/data/ACS2020_paper_23.pdf). Christopher Maclellan, Kimberly Stowers, and Lisa Brady.
 
-
-12:45 pm - 2:30 pm, Herbert A. Simon Prize Colloquium
+12:30 pm - 2:00 pm, Academia Panel 
 ----
-Memorial Panel for Patrick Winston.
+How to prepare the next generation of cognitive systems researchers? Panel moderated by Nate Derbinsky.
+Invited participants: Maithilee Kunda, Tom Williams, Justin Li, Jamie Macbeth
 
 
 2:30 pm - 3:30 pm, Poster Session 4
