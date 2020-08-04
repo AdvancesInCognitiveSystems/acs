@@ -5,11 +5,7 @@ permalink: "/speakers/"
 ---
 
 {% for speaker in site.speakers %}
-
-<a href="{{ speaker.url | prepend: site.baseurl }}">
-  <h2>{{ speaker.title }}</h2>
-</a>
-
-<p class="post-excerpt">{{ speaker.description | truncate: 160 }}</p>
-
-{% endfor %} 
+  <div class="speaker">
+    <h2><a href="{{ speaker.url }}">{{ speaker.title }}</a></h2>
+  </div>
+{% endfor %}
