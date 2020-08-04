@@ -6,12 +6,21 @@ permalink: /day2/
 
 Please note that all times are Pacific Standard Time (GMT-7)
 
-8:30 am - 9:30 am, Invited Talk
+
+8:30 am - 10:15 pm, Technical Talks on Goal Reasoning
+----
+
+1. [The Problem with Problems]({{ site.baseurl }}/data/ACS2020_paper_1.pdf). Michael Cox.
+2. [Goal Elicitation Planning: Reasoning and Acting to Reveal Another Agent's Goal]({{ site.baseurl }}/data/ACS2020_paper_2.pdf). Adam Amos-Binks and Rogelio E.Cardona-Rivera.
+3. [Recognizing the Goals of Uninspectable Agents]({{ site.baseurl }}/data/ACS2020_paper_17.pdf). Irina Rabkina, Pavan Kantharaju, Jason Wilson, Mark Roberts, Kenneth Forbus, and Laura Hiatt.
+4. [The CREDO Stack: From Theory to Practice in Cognitive Systems Design]({{ site.baseurl }}/data/ACS2020_paper_9.pdf). John Fox.
+
+
+10:45 am - 11:45 am, Invited Talk
 ----
 Cynthia Matuszek
 
-
-9:30 am - 10:30 am, Poster Session 3
+11:45 am - 12:245 am, Poster Session 3
 ----
 
 1. [OntoAgent: Implementing Content-Centric Cognitive Models]({{ site.baseurl }}/data/ACS2020_paper_16.pdf).Jesse English and Sergei Nirenburg.
@@ -19,15 +28,6 @@ Cynthia Matuszek
 3. [Anticipatory Thinking: A New Frontier for Automated Planning]({{ site.baseurl }}/data/ACS2020_paper_21.pdf).	Adam Amos-Binks, Dustin Dannenhauer, Gene Brewer and Rogelio E. Cardona-Rivera. 
 4. [A Model and a Method to Study Agency, Adaptation and Adult Development]({{ site.baseurl }}/data/ACS2020_paper_34.pdf). Roger Gould. 
 5. Interactions with Cynthia Matuszek
-
-10:30 am - 12:15 pm, Technical Talks on Goal Reasoning
-----
-
-1. [The CREDO Stack: From Theory to Practice in Cognitive Systems Design]({{ site.baseurl }}/data/ACS2020_paper_9.pdf). John Fox.
-2. [Goal Elicitation Planning: Reasoning and Acting to Reveal Another Agent's Goal]({{ site.baseurl }}/data/ACS2020_paper_2.pdf). Adam Amos-Binks and Rogelio E.Cardona-Rivera.
-3. [Recognizing the Goals of Uninspectable Agents]({{ site.baseurl }}/data/ACS2020_paper_17.pdf). Irina Rabkina, Pavan Kantharaju, Jason Wilson, Mark Roberts, Kenneth Forbus, and Laura Hiatt.
-4. [The Problem with Problems]({{ site.baseurl }}/data/ACS2020_paper_1.pdf). Michael Cox.
-
 
 12:45 pm - 2:30 pm, Herbert A. Simon Prize Colloquium
 ----
