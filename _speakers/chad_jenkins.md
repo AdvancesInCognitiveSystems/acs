@@ -1,4 +1,6 @@
 ---
+layout: speaker
+title: Chad Jenkins
 name: Chad Jenkins
 affiliation: Professor of Computer Science, University of Michigan
 url: https://web.eecs.umich.edu/~ocj/
