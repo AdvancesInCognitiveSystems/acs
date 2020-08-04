@@ -6,6 +6,7 @@ institution: University of Michigan, Ann Arbor
 date: August 12th, 2020
 label: August 12th, 2020
 time: 8:30 am - 9:30 am PT
+day: day3
 website: https://web.eecs.umich.edu/~ocj/
 image: /images/chad.jpeg
 title: Semantic Robot Programming... and Maybe Making the World a Better Place
