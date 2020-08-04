@@ -5,7 +5,7 @@ role: Professor of Computer Science and Engineering
 institution: University of Michigan, Ann Arbor
 date: August 12th, 2020
 label: August 12th, 2020
-time: 11:30 am - 12:30 pm
+time: 8:30 am - 9:30 am PT
 website: https://web.eecs.umich.edu/~ocj/
 image: /images/chad.jpeg
 title: Semantic Robot Programming... and Maybe Making the World a Better Place
