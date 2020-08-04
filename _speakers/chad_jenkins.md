@@ -1,7 +1,7 @@
 ---
 layout: speaker
-name: Chad Jenkins
-affiliation: Professor of Computer Science, University of Michigan
+name: Odest Chadwicke Jenkins
+affiliation: Professor of Computer Science and Engineering, University of Michigan, Ann Arbor
 date: August 12th, 2020
 time: 11:30 am - 12:30 pm
 website: https://web.eecs.umich.edu/~ocj/
