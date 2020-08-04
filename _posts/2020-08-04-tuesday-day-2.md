@@ -7,7 +7,7 @@ permalink: /day2/
 Please note that all times are Pacific Standard Time (GMT-7)
 
 
-8:30 am - 10:15 pm, Technical Talks on Goal Reasoning
+8:30 am - 10:15 am, Technical Talks on Goal Reasoning
 ----
 
 1. [The Problem with Problems]({{ site.baseurl }}/data/ACS2020_paper_1.pdf). Michael Cox.
@@ -20,7 +20,7 @@ Please note that all times are Pacific Standard Time (GMT-7)
 ----
 Cynthia Matuszek
 
-11:45 am - 12:245 am, Poster Session 3
+11:45 am - 12:45 pm, Poster Session 3
 ----
 
 1. [OntoAgent: Implementing Content-Centric Cognitive Models]({{ site.baseurl }}/data/ACS2020_paper_16.pdf).Jesse English and Sergei Nirenburg.
