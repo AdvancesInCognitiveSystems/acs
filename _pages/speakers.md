@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "A list of animals"
+title: Invited Talks
 permalink: "/speakers/"
 ---
 
