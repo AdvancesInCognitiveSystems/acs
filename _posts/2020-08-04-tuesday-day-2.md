@@ -31,8 +31,7 @@ Cynthia Matuszek
 
 12:45 pm - 2:30 pm, Herbert A. Simon Prize Colloquium
 ----
-Memorial Panel for Patrick Winston.
-
+Memorial Panel for Patrick Winston led by Dylan Holmes. Invited participants: Mark Finlayson, Sajit Rao, Gary Borchardt
 
 2:30 pm - 3:30 pm, Poster Session 4
 ----
