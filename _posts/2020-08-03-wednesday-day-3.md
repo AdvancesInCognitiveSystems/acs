@@ -8,7 +8,7 @@ Please note that all times are Pacific Standard Time (GMT-7)
 
 8:30 am - 9:30 am, Invited Talk
 ----
-Chad Jenkins
+[Semantic Robot Programming... and Maybe Making the World a Better Place](https://advancesincognitivesystems.github.io/acs/speakers/chad_jenkins/). Odest Chadwicke Jenkins.
 
 
 9:30 am - 10:30 am, Poster Session 5
