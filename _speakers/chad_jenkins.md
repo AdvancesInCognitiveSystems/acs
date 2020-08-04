@@ -4,6 +4,7 @@ name: Odest Chadwicke Jenkins
 role: Professor of Computer Science and Engineering
 institution: University of Michigan, Ann Arbor
 date: August 12th, 2020
+label: August 12th, 2020
 time: 11:30 am - 12:30 pm
 website: https://web.eecs.umich.edu/~ocj/
 image: /images/chad.jpeg
