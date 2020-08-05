@@ -13,7 +13,7 @@ permalink: /papers/
 - [The Visual Narrative Engine: A Computational Model of the Visual Narrative Parallel Architecture]({{ site.baseurl }}/data/ACS2020_paper_40.pdf). Chris Martens, Rogelio E. Cardona-Rivera, and Neil Cohn.
 - [Goal Elicitation Planning: Reasoning and Acting to Reveal Another Agent's Goal]({{ site.baseurl }}/data/ACS2020_paper_2.pdf). Adam Amos-Binks and Rogelio E.Cardona-Rivera.
 - [Not Quite Any Way You Slice It: How Different Analogical Constructions Affect Raven's Matrices Performance]({{ site.baseurl }}/data/ACS2020_paper_25.pdf). Yuan Yang, Keith McGreggor, and Maithilee Kunda.
-- [A Cognitive Task Analysis of Rapid Procedure Acquisition from Written Instruction]({{ site.baseurl }}/data/ACS2020_paper_42.pdf). Pat Langley, Howard Shrobe, and Boris Katz.
+- [A Cognitive Task Analysis of Rapid Procedure Acquisition from Written Instructions]({{ site.baseurl }}/data/ACS2020_paper_42.pdf). Pat Langley, Howard Shrobe, and Boris Katz.
 - [Learning Procedures by Augmenting Sequential Pattern Mining with Planning Knowledge]({{ site.baseurl }}/data/ACS2020_paper_26.pdf). Melinda Gervasio and Karen Myers. 
 - [Recognizing the Goals of Uninspectable Agents]({{ site.baseurl }}/data/ACS2020_paper_17.pdf). Irina Rabkina, Pavan Kantharaju, Jason Wilson, Mark Roberts, Kenneth Forbus, and Laura Hiatt.
 - [Learning Hybrid Models for Variable Impedance Control of Changing-Contact Manipulation Tasks]({{ site.baseurl }}/data/ACS2020_paper_30.pdf). Saif Sidhik, Mohan Sridharan, and Dirk Ruiken.
