@@ -12,7 +12,7 @@ Led by [Chris Maclellan](https://chrismaclellan.com), Assistant Professor at Dre
 
 8:30 am - 10:15 am, Technical Talks on Goal Reasoning
 ----
-###### David Aha
+###### Chaired by David Aha
 
 1. [The Problem with Problems]({{ site.baseurl }}/data/ACS2020_paper_1.pdf). Michael Cox. [[#talk-cox]](https://acs-2020.slack.com/archives/C018CQXN15Z)
 2. [Goal Elicitation Planning: Reasoning and Acting to Reveal Another Agent's Goal]({{ site.baseurl }}/data/ACS2020_paper_2.pdf). Adam Amos-Binks and Rogelio E.Cardona-Rivera. [[#talk-amos-binks]](https://acs-2020.slack.com/archives/C0185STBU94)
