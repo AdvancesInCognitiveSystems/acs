@@ -9,3 +9,7 @@ ACS is an annual meeting for research on the initial goals of artificial intelli
 
 Learn more about the conference [here](http://www.cogsys.org/conference/2020/). Learn more about the community that runs the conference and publishes a journal [here](http://cogsys.org/).
 
+
+Sponsors
+---
+<img src= "{{ site.baseurl }}/imagesz/parclogo.png"  alt="parc">
