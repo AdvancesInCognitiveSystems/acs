@@ -11,5 +11,6 @@ Learn more about the conference [here](http://www.cogsys.org/conference/2020/). 
 
 
 Sponsors
----
-<img src= "{{ site.baseurl }}/images/parclogo.png"  alt="parc">
+----
+
+<img src= "{{ site.baseurl }}/images/parclogo.png"  alt="parc" style="max-width=150px;">
