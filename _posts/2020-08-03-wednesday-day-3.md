@@ -20,7 +20,7 @@ Please note that all times are Pacific Standard Time (GMT-7)
 4. [Complexity of Agents in Non-stationary Environments: A Partial Computational Model]({{ site.baseurl }}/data/ACS2020_paper_37.pdf).Vadim Bulitko and Valeriy K. Bulitko.
 5. Interactions with Chad Jenkins
 
-10:30 am - 12:15 pm, Technical Talks on Cognition for Complex Tasks
+10:30 am - 12:30 pm, Technical Talks on Cognition for Complex Tasks
 ----
 
 1. [A Cognitive Task Analysis of Rapid Procedure Acquisition from Written Instruction]({{ site.baseurl }}/data/ACS2020_paper_42.pdf). Pat Langley, Howard Shrobe, and Boris Katz.
@@ -28,17 +28,20 @@ Please note that all times are Pacific Standard Time (GMT-7)
 3. [Not Quite Any Way You Slice It: How Different Analogical Constructions Affect Raven's Matrices Performance]({{ site.baseurl }}/data/ACS2020_paper_25.pdf). Yuan Yang, Keith McGreggor, and Maithilee Kunda.
 4. [Optimizing Human Performance using Individualized Computational Models of Learning]({{ site.baseurl }}/data/ACS2020_paper_23.pdf). Christopher Maclellan, Kimberly Stowers, and Lisa Brady.
 
-12:30 pm - 2:00 pm, Academia Panel 
+12:30 pm - 1:00 pm, Break and Continued Interactions with Speakers
+----
+
+1:00 pm - 2:30 pm, Academia Panel
 ----
 How to prepare the next generation of cognitive systems researchers? Panel moderated by Nate Derbinsky.
 Invited participants: Maithilee Kunda, Tom Williams, Justin Li, Jamie Macbeth
 
 
-2:00 pm - 3:00 pm, Poster Session 6
+2:30 pm - 3:30 pm, Poster Session 6
 ----
 1. [Enabling Morally Sensitive Robotic Clarification Requests]({{ site.baseurl }}/data/ACS2020_paper_6.pdf). Ryan Blak Jackson and Tom Williams.
 2. [Coordination in Homogeneous and Heterogeneous Teams]({{ site.baseurl }}/data/ACS2020_paper_27.pdf). Othalia Larue, Ion Juvina, Michael Cox, Matt Molineaux, Brue Howard, Eric Nichols, and Brad Minnery.
 3. [A Measure of Visuospatial Skills: Painting the Big Picture]({{ site.baseurl }}/data/ACS2020_paper_20.pdf).	Joel Michelson, Deepayan Sanyal, James Ainooson and Maithilee Kunda.
 
-3:00 pm - 4:30 pm, State of ACS
+3:30 pm - 5:00 pm, Concluding Remarks and Plan for the next ACS
 ----

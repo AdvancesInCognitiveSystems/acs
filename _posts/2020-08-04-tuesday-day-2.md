@@ -6,6 +6,8 @@ permalink: /day2/
 
 Please note that all times are Pacific Standard Time (GMT-7)
 
+7:00 am - 8:00 am, Student Mentoring Session led by [Chris Maclellan](https://chrismaclellan.com)
+----
 
 8:30 am - 10:15 am, Technical Talks on Goal Reasoning
 ----
@@ -15,6 +17,8 @@ Please note that all times are Pacific Standard Time (GMT-7)
 3. [Recognizing the Goals of Uninspectable Agents]({{ site.baseurl }}/data/ACS2020_paper_17.pdf). Irina Rabkina, Pavan Kantharaju, Jason Wilson, Mark Roberts, Kenneth Forbus, and Laura Hiatt.
 4. [The CREDO Stack: From Theory to Practice in Cognitive Systems Design]({{ site.baseurl }}/data/ACS2020_paper_9.pdf). John Fox.
 
+10:15 am - 10:45 am, Break and Continued Interactions with Speakers
+----
 
 10:45 am - 11:45 am, Invited Talk
 ----
@@ -47,6 +51,8 @@ Memorial Panel for Patrick Winston led by Dylan Holmes. Invited participants: Ma
 3. [Model-Based Novelty Adaptation]({{ site.baseurl }}/data/ACS2020_paper_5.pdf). Matt Klenk, Wiktor Piotrowski,and Roni Stern.
 4. [Dempster-Shafer Theoretic Learning of Indirect Speech Act Comprehension Norms]({{ site.baseurl }}/data/ACS2020_paper_7.pdf). Ruchen Wen, Mohammed Aun Siddiqui, and Thomas Williams.
 
+4:30 pm - 5:00 pm, Break and Continued Interactions with Speakers
+----
 
 5:30 pm - 6:30 pm, Student Mentoring
 ----
