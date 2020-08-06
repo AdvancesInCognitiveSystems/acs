@@ -28,6 +28,7 @@ Learn more about the conference [here](http://www.cogsys.org/conference/2020/). 
 - Ashok Goel, Georgia Institute of Technology
 - John Laird, University of Michigan, Ann Arbor
 - Pat Langley, Institute for the Study of Learning and Expertise
+- Sergei Nirenburg, Rensselaer Polytechnic Institute
 
 ## Program Committee
 - David Aha, Naval Research Laboratory
