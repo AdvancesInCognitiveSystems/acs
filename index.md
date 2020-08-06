@@ -13,4 +13,6 @@ Learn more about the conference [here](http://www.cogsys.org/conference/2020/). 
 Sponsors
 ----
 
+ACS 2020 is sponsored by:
+
 <img src= "{{ site.baseurl }}/images/parclogo.png"  alt="parc" style="max-width:150px;">
