@@ -21,6 +21,10 @@ Learn more about the conference [here](http://www.cogsys.org/conference/2020/). 
 
 - [Tom Williams](https://people.mines.edu/twilliams/), Colorado School of Mines
 
+## WWW Chair
+
+- [Preeti Ramaraj](https://preetiramaraj.github.io/), University of Michigan
+
 ## Organizing Committee
 
 - Paul Bello, Naval Research Laboratory
@@ -62,7 +66,7 @@ Learn more about the conference [here](http://www.cogsys.org/conference/2020/). 
 - Antonio Lieto, University of Turin
 - Andrew Lovett, U.S. Naval Research Laboratory
 - Jamie Macbeth, Smith College
-- Christopher Maclellan, "Soar Technology, Inc."
+- Christopher Maclellan, Drexel University
 - David McDonald, SIFT LLC
 - Marjorie McShane, RPI
 - Shiwali Mohan, Palo Alto Research Center
