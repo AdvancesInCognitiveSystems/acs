@@ -22,6 +22,7 @@ Please note that all times are Pacific Standard Time (GMT-7)
 
 10:30 am - 12:30 pm, Technical Talks on Cognition for Complex Tasks
 ----
+###### Chaired by Ashok Goel
 
 1. [A Cognitive Task Analysis of Rapid Procedure Acquisition from Written Instruction]({{ site.baseurl }}/data/ACS2020_paper_42.pdf). Pat Langley, Howard Shrobe, and Boris Katz. [[#talk-langley]](https://acs-2020.slack.com/archives/C018CK9710S)
 2. [Characterizing an Analogical Concept Memory for Architectures Implementing the Common Model of Cognition]({{ site.baseurl }}/data/ACS2020_paper_10.pdf). Shiwali Mohan, Matthew Klenk, Matthew Shreve, Kent Evans, Aaron Ang, and John Maxwell. [[#talk-mohan]](https://acs-2020.slack.com/archives/C018JJBKPM2)

@@ -12,6 +12,7 @@ Led by [Chris Maclellan](https://chrismaclellan.com), Assistant Professor at Dre
 
 8:30 am - 10:15 am, Technical Talks on Goal Reasoning
 ----
+###### Chaired by David Aha
 
 1. [The Problem with Problems]({{ site.baseurl }}/data/ACS2020_paper_1.pdf). Michael Cox. [[#talk-cox]](https://acs-2020.slack.com/archives/C018CQXN15Z)
 2. [Goal Elicitation Planning: Reasoning and Acting to Reveal Another Agent's Goal]({{ site.baseurl }}/data/ACS2020_paper_2.pdf). Adam Amos-Binks and Rogelio E.Cardona-Rivera. [[#talk-amos-binks]](https://acs-2020.slack.com/archives/C0185STBU94)
@@ -47,6 +48,8 @@ Memorial Panel for Patrick Winston led by Dylan Holmes. Invited participants: Ma
 
 3:30 pm - 4:30 pm, Short Technical Talks
 ----
+###### Chaired Tom Hinrichs
+
 1. [System-wide Monitoring for Anomaly Detection]({{ site.baseurl }}/data/ACS2020_paper_41.pdf). Leilani Gilpin. [[#short-gilpin]](https://acs-2020.slack.com/archives/C018CK3E1AN)
 2. [Quotation for Real-Time Metacognition]({{ site.baseurl }}/data/ACS2020_paper_18.pdf). Matthew D. Goldberg, Darsana Josyula, and Don Perlis. [[#short-goldberg]](https://acs-2020.slack.com/archives/C018CK3V37U)
 3. [Model-Based Novelty Adaptation]({{ site.baseurl }}/data/ACS2020_paper_5.pdf). Matt Klenk, Wiktor Piotrowski, and Roni Stern. [[#short-klenk]](https://acs-2020.slack.com/archives/C017XSQ1SG7)
