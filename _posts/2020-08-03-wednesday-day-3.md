@@ -44,5 +44,10 @@ Invited participants: Maithilee Kunda, Tom Williams, Justin Li, Jamie Macbeth. [
 2. [Coordination in Homogeneous and Heterogeneous Teams]({{ site.baseurl }}/data/ACS2020_paper_27.pdf). Othalia Larue, Ion Juvina, Michael Cox, Matt Molineaux, Brue Howard, Eric Nichols, and Brad Minnery. [[#poster-larue]](https://acs-2020.slack.com/archives/C018T946X41)
 3. [A Measure of Visuospatial Skills: Painting the Big Picture]({{ site.baseurl }}/data/ACS2020_paper_20.pdf).	Joel Michelson, Deepayan Sanyal, James Ainooson and Maithilee Kunda. [[#poster-michelson]](https://acs-2020.slack.com/archives/C0185T8HX8W)
 
-3:30 pm - 5:00 pm, Concluding Remarks and Plan for the next ACS
+3:30 pm - 4:00 pm, Concluding Remarks and Plan for the next ACS
 ----
+
+4:00 pm - 5:00 pm, Student Mentoring
+----
+
+Led by [Maria Chang](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Maria.Chang), Research Staff Member and Principal Investigator at IBM Research. Expert in analogical reasoning and cognitive modeling.
