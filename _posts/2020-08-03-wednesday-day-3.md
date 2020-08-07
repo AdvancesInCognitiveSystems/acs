@@ -37,7 +37,11 @@ Please note that all times are Pacific Standard Time (GMT-7)
 
 1:00 pm - 2:30 pm, Academia Panel
 ----
-How to prepare the next generation of cognitive systems researchers? Panel moderated by Nate Derbinsky.
+
+###### Chaired by Nate Derbinsky
+
+How to prepare the next generation of cognitive systems researchers?
+
 Invited participants: Maithilee Kunda, Tom Williams, Justin Li, Jamie Macbeth. [[#panel-academia]](https://acs-2020.slack.com/archives/C018CK5TG02)
 
 
