@@ -48,7 +48,7 @@ Memorial Panel for Patrick Winston led by Dylan Holmes. Invited participants: Ma
 
 3:30 pm - 4:30 pm, Short Technical Talks
 ----
-###### Chaired Tom Hinrichs
+###### Chaired by Tom Hinrichs
 
 1. [System-wide Monitoring for Anomaly Detection]({{ site.baseurl }}/data/ACS2020_paper_41.pdf). Leilani Gilpin. [[#short-gilpin]](https://acs-2020.slack.com/archives/C018CK3E1AN)
 2. [Quotation for Real-Time Metacognition]({{ site.baseurl }}/data/ACS2020_paper_18.pdf). Matthew D. Goldberg, Darsana Josyula, and Don Perlis. [[#short-goldberg]](https://acs-2020.slack.com/archives/C018CK3V37U)
