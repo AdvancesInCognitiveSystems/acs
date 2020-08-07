@@ -61,7 +61,7 @@ Memorial Panel for Patrick Winston led by Dylan Holmes. Invited participants: Ma
 4:30 pm - 5:00 pm, Break and Continued Interactions with Speakers
 ----
 
-5:30 pm - 6:30 pm, Student Mentoring
+5:00 pm - 6:00 pm, Student Mentoring
 ----
 
 Led by [Nikhil Krishnaswamy](https://www.nikhilkrishnaswamy.com/), Assistant Professor at Colorado State University. Expert in computational linguistics and embodied cognition.
