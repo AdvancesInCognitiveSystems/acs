@@ -24,6 +24,9 @@ Led by [Chris Maclellan](https://chrismaclellan.com), Assistant Professor at Dre
 
 10:45 am - 11:45 am, Invited Talk
 ----
+
+###### Chaired by Matt Klenk
+
 Cynthia Matuszek [[#invited-talk-matuszek]](https://acs-2020.slack.com/archives/C018JQGUX6G)
 
 11:45 am - 12:45 pm, Poster Session 3
