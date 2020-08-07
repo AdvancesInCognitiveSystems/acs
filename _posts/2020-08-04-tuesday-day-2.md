@@ -40,7 +40,16 @@ Cynthia Matuszek [[#invited-talk-matuszek]](https://acs-2020.slack.com/archives/
 
 12:45 pm - 2:30 pm, Herbert A. Simon Prize Colloquium
 ----
-Memorial Panel for Patrick Winston led by Dylan Holmes. Invited participants: Mark Finlayson, Sajit Rao, Gary Borchardt [[#panel-simon-prize]](https://acs-2020.slack.com/archives/C018CK13HEW)
+
+###### Chaired by Dylan Holmes.
+
+Memorial lecture series for [Patrick Winston](http://people.csail.mit.edu/phw/index.html). [[#panel-simon-prize]](https://acs-2020.slack.com/archives/C018CK13HEW)
+
+Invited lectures:
+- _Leveraging Language and Change in the Representation of Events_, Gary Borchardt
+- _Visuospatial Problem Solving and Learning_, Sajit Rao
+- _Steps toward Narrative Natural Language Processing_, Mark Finlayson
+
 
 2:30 pm - 3:30 pm, Poster Session 4
 ----
