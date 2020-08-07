@@ -8,6 +8,9 @@ Please note that all times are Pacific Standard Time (GMT-7)
 
 8:30 am - 9:30 am, Invited Talk
 ----
+
+##### Chaired by John Laird
+
 [Semantic Robot Programming... and Maybe Making the World a Better Place](https://advancesincognitivesystems.github.io/acs/speakers/chad_jenkins/). Odest Chadwicke Jenkins. [[#invited-talk-jenkins]](https://acs-2020.slack.com/archives/C018B898XN1)
 
 
@@ -34,8 +37,12 @@ Please note that all times are Pacific Standard Time (GMT-7)
 
 1:00 pm - 2:30 pm, Academia Panel
 ----
-How to prepare the next generation of cognitive systems researchers? Panel moderated by Nate Derbinsky.
-Invited participants: Maithilee Kunda, Tom Williams, Justin Li, Jamie Macbeth. [[#panel-academia]](https://acs-2020.slack.com/archives/C018CK5TG02)
+
+###### Chaired by Nate Derbinsky
+
+How to prepare the next generation of cognitive systems researchers? [[#panel-academia]](https://acs-2020.slack.com/archives/C018CK5TG02)
+
+Invited participants: Maithilee Kunda, Tom Williams, Justin Li, Jamie Macbeth. 
 
 
 2:30 pm - 3:30 pm, Poster Session 6
