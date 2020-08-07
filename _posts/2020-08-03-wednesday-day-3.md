@@ -40,9 +40,9 @@ Please note that all times are Pacific Standard Time (GMT-7)
 
 ###### Chaired by Nate Derbinsky
 
-How to prepare the next generation of cognitive systems researchers?
+How to prepare the next generation of cognitive systems researchers? [[#panel-academia]](https://acs-2020.slack.com/archives/C018CK5TG02)
 
-Invited participants: Maithilee Kunda, Tom Williams, Justin Li, Jamie Macbeth. [[#panel-academia]](https://acs-2020.slack.com/archives/C018CK5TG02)
+Invited participants: Maithilee Kunda, Tom Williams, Justin Li, Jamie Macbeth. 
 
 
 2:30 pm - 3:30 pm, Poster Session 6
