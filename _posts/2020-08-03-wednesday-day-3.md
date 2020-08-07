@@ -9,7 +9,7 @@ Please note that all times are Pacific Standard Time (GMT-7)
 8:30 am - 9:30 am, Invited Talk
 ----
 
-#### Chaired by John Laird
+##### Chaired by John Laird
 
 [Semantic Robot Programming... and Maybe Making the World a Better Place](https://advancesincognitivesystems.github.io/acs/speakers/chad_jenkins/). Odest Chadwicke Jenkins. [[#invited-talk-jenkins]](https://acs-2020.slack.com/archives/C018B898XN1)
 
