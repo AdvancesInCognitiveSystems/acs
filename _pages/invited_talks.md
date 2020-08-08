@@ -14,4 +14,4 @@ We are pleased to announce the following invited talks.
 ### Panel Discussions
 
 - [_"Patrick Winston Memorial Colloquium"_](https://advancesincognitivesystems.github.io/acs/day2/) moderated by Dylan Holmes. Invited participants: Mark Finlayson, Sajit Rao, Gary Borchardt
-- [_"How to prepare the next generation of cognitive systems researchers?"_](https://advancesincognitivesystems.github.io/acs/day3/) moderated by Nate Derbinksy. Invited participants: Maithilee Kunda, Tom Williams, Justin Li, Jamie Macbeth. 
+- [_"How to prepare the next generation of cognitive systems researchers?"_](https://advancesincognitivesystems.github.io/acs/day3/) moderated by Nate Derbinsky. Invited participants: Maithilee Kunda, Tom Williams, Justin Li, Jamie Macbeth. 
