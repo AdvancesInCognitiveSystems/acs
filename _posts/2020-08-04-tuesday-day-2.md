@@ -41,9 +41,9 @@ Cynthia Matuszek [[#invited-talk-matuszek]](https://acs-2020.slack.com/archives/
 12:45 pm - 2:30 pm, Herbert A. Simon Prize Colloquium
 ----
 
-###### Chaired by Dylan Holmes.
+###### Chaired by Pat Langley and Dylan Holmes.
 
-Memorial lecture series for [Patrick Winston](http://people.csail.mit.edu/phw/index.html). [[#panel-simon-prize]](https://acs-2020.slack.com/archives/C018CK13HEW)
+Memorial symposium for [Patrick Winston](http://people.csail.mit.edu/phw/index.html). [[#panel-simon-prize]](https://acs-2020.slack.com/archives/C018CK13HEW)
 
 Invited lectures:
 - _Leveraging Language and Change in the Representation of Events_, Gary Borchardt
