@@ -21,7 +21,7 @@ Learn more about the conference [here](http://www.cogsys.org/conference/2020/). 
 
 - [Tom Williams](https://people.mines.edu/twilliams/), Colorado School of Mines
 
-## WWW Chair
+## Technical Chair
 
 - [Preeti Ramaraj](https://preetiramaraj.github.io/), University of Michigan
 
