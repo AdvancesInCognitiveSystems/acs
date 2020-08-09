@@ -65,7 +65,7 @@ Invited lectures:
 
 1. [System-wide Monitoring for Anomaly Detection]({{ site.baseurl }}/data/ACS2020_paper_41.pdf). Leilani Gilpin. [[#short-gilpin]](https://acs-2020.slack.com/archives/C018CK3E1AN)
 2. [Quotation for Real-Time Metacognition]({{ site.baseurl }}/data/ACS2020_paper_18.pdf). Matthew D. Goldberg, Darsana Josyula, and Don Perlis. [[#short-goldberg]](https://acs-2020.slack.com/archives/C018CK3V37U)
-3. [Model-Based Novelty Adaptation]({{ site.baseurl }}/data/ACS2020_paper_5.pdf). Matt Klenk, Wiktor Piotrowski, and Roni Stern. [[#short-klenk]](https://acs-2020.slack.com/archives/C017XSQ1SG7)
+3. [Model-Based Novelty Adaptation]({{ site.baseurl }}/data/ACS2020_paper_5.pdf). Matt Klenk, Wiktor Piotrowski, Roni Stern, Shiwali Mohan, and Johan de Kleer. [[#short-klenk]](https://acs-2020.slack.com/archives/C017XSQ1SG7)
 4. [Dempster-Shafer Theoretic Learning of Indirect Speech Act Comprehension Norms]({{ site.baseurl }}/data/ACS2020_paper_7.pdf). Ruchen Wen, Mohammed Aun Siddiqui, and Thomas Williams. [[#short-wen]](https://acs-2020.slack.com/archives/C018CK472JE)
 
 4:30 pm - 5:00 pm, Break and Continued Interactions with Speakers
