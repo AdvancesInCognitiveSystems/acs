@@ -4,7 +4,7 @@ title:  "Tuesday, August 11th"
 permalink: /day2/
 ---
 
-Please note that all times are Pacific Standard Time (GMT-7)
+Please note that all times are Pacific Time (GMT-7)
 
 7:00 am - 8:00 am, Student Mentoring Session
 ----
@@ -49,6 +49,7 @@ Invited lectures:
 - _Leveraging Language and Change in the Representation of Events_, Gary Borchardt
 - _Visuospatial Problem Solving and Learning_, Sajit Rao
 - _Steps toward Narrative Natural Language Processing_, Mark Finlayson
+- _Story-enabled Intelligence_, Dylan Holmes
 
 
 2:30 pm - 3:30 pm, Poster Session 4
