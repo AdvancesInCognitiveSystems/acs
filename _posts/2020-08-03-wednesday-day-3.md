@@ -4,7 +4,7 @@ title:  "Wednesday, August 12th"
 permalink: /day3/
 ---
 
-Please note that all times are Pacific Standard Time (GMT-7)
+Please note that all times are Pacific Time (GMT-7)
 
 8:30 am - 9:30 am, Invited Talk
 ----
