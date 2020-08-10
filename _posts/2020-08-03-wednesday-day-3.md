@@ -33,7 +33,7 @@ Led by [Adam Amos-Binks](https://www.linkedin.com/in/adam-amos-binks/), Chief Sc
 
 1. [A Cognitive Task Analysis of Rapid Procedure Acquisition from Written Instruction]({{ site.baseurl }}/data/ACS2020_paper_42.pdf). Pat Langley, Howard Shrobe, and Boris Katz. [[#talk-langley]](https://acs-2020.slack.com/archives/C018CK9710S)
 2. [Characterizing an Analogical Concept Memory for Architectures Implementing the Common Model of Cognition]({{ site.baseurl }}/data/ACS2020_paper_10.pdf). Shiwali Mohan, Matthew Klenk, Matthew Shreve, Kent Evans, Aaron Ang, and John Maxwell. [[#talk-mohan]](https://acs-2020.slack.com/archives/C018JJBKPM2)
-3. [Not Quite Any Way You Slice It: How Different Analogical Constructions Affect Raven's Matrices Performance]({{ site.baseurl }}/data/ACS2020_paper_25.pdf). Yuan Yang, Keith McGreggor, and Maithilee Kunda. **Winner of the inaugral Patrick Henry Winston Awart for the Best Student Paper on Cognitive Systems.** [[#talk-yang]](https://acs-2020.slack.com/archives/C0192EKT8QG)
+3. [Not Quite Any Way You Slice It: How Different Analogical Constructions Affect Raven's Matrices Performance]({{ site.baseurl }}/data/ACS2020_paper_25.pdf). Yuan Yang, Keith McGreggor, and Maithilee Kunda. **Winner of the inaugral Patrick Henry Winston Award for the Best Student Paper on Cognitive Systems.** [[#talk-yang]](https://acs-2020.slack.com/archives/C0192EKT8QG)
 4. [Optimizing Human Performance using Individualized Computational Models of Learning]({{ site.baseurl }}/data/ACS2020_paper_23.pdf). Christopher Maclellan, Kimberly Stowers, and Lisa Brady. [[#talk-maclellan]](https://acs-2020.slack.com/archives/C018B8C38AZ)
 
 12:30 pm - 1:00 pm, Break and Continued Interactions with Speakers
