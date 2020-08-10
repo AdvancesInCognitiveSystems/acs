@@ -6,6 +6,10 @@ permalink: /day3/
 
 Please note that all times are Pacific Time (GMT-7)
 
+7:00 am - 8:00 am, Student Mentoring Session
+----
+Led by [Adam Amos-Binks](https://www.linkedin.com/in/adam-amos-binks/), Chief Scientist at Applied Research Associates. Expert in goal reasoning, planning, and anticipatory thinking.
+
 8:30 am - 9:30 am, Invited Talk
 ----
 
