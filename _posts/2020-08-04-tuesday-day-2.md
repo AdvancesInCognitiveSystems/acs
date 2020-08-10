@@ -27,7 +27,7 @@ Led by [Chris Maclellan](https://chrismaclellan.com), Assistant Professor at Dre
 
 ###### Chaired by Matt Klenk
 
-[https://advancesincognitivesystems.github.io/acs/speakers/cynthia_matuszek/](https://advancesincognitivesystems.github.io/acs/speakers/cynthia_matuszek/) Cynthia Matuszek [[#invited-talk-matuszek]](https://acs-2020.slack.com/archives/C018JQGUX6G)
+[Robots, Language, and Environments - (How) Can Agents Work in the Human World?](https://advancesincognitivesystems.github.io/acs/speakers/cynthia_matuszek/) Cynthia Matuszek [[#invited-talk-matuszek]](https://acs-2020.slack.com/archives/C018JQGUX6G)
 
 11:45 am - 12:45 pm, Poster Session 3
 ----
