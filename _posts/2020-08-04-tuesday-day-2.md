@@ -8,7 +8,7 @@ Please note that all times are Pacific Time (GMT-7)
 
 7:00 am - 8:00 am, Student Mentoring Session
 ----
-Led by [Chris Maclellan](https://chrismaclellan.com), Assistant Professor at Drexel University. Expert in cognitive modeling and human-computer interaction.
+Led by [Chris Maclellan](https://chrismaclellan.com), Assistant Professor at Drexel University. Expert in cognitive modeling and human-computer interaction. Happening in Zoom Room 1.
 
 8:30 am - 10:15 am, Technical Talks on Goal Reasoning
 ----
@@ -74,6 +74,6 @@ Invited lectures:
 5:00 pm - 6:00 pm, Student Mentoring
 ----
 
-Led by [Nikhil Krishnaswamy](https://www.nikhilkrishnaswamy.com/), Assistant Professor at Colorado State University. Expert in computational linguistics and embodied cognition.
+Led by [Nikhil Krishnaswamy](https://www.nikhilkrishnaswamy.com/), Assistant Professor at Colorado State University. Expert in computational linguistics and embodied cognition. Happening in Zoom Room 1.
 
 

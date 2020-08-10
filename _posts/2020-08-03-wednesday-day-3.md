@@ -8,7 +8,7 @@ Please note that all times are Pacific Time (GMT-7)
 
 7:00 am - 8:00 am, Student Mentoring Session
 ----
-Led by [Adam Amos-Binks](https://www.linkedin.com/in/adam-amos-binks/), Chief Scientist at Applied Research Associates. Expert in goal reasoning, planning, and anticipatory thinking.
+Led by [Adam Amos-Binks](https://www.linkedin.com/in/adam-amos-binks/), Chief Scientist at Applied Research Associates. Expert in goal reasoning, planning, and anticipatory thinking. Happening in Zoom Room 1.
 
 8:30 am - 9:30 am, Invited Talk
 ----
@@ -61,4 +61,4 @@ Invited participants: Maithilee Kunda, Tom Williams, Justin Li, Jamie Macbeth.
 4:00 pm - 5:00 pm, Student Mentoring
 ----
 
-Led by [Maria Chang](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Maria.Chang), Research Staff Member and Principal Investigator at IBM Research. Expert in analogical reasoning and cognitive modeling.
+Led by [Maria Chang](https://researcher.watson.ibm.com/researcher/view.php?person=ibm-Maria.Chang), Research Staff Member and Principal Investigator at IBM Research. Expert in analogical reasoning and cognitive modeling. Happening in Zoom Room 1.
