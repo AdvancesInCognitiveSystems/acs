@@ -9,6 +9,10 @@ ACS is an annual meeting for research on the initial goals of artificial intelli
 
 Learn more about the conference [here](http://www.cogsys.org/conference/2020/). Learn more about the community that runs the conference and publishes a journal [here](http://cogsys.org/).
 
+### Social Media
+- YouTube [ACS Channel](https://www.youtube.com/channel/UCTcaMWR5sv603SO7DN8L-TA)
+- Twitter [@CogSys2020](https://twitter.com/CogSys2020)
+
 
 ### Sponsors
 
