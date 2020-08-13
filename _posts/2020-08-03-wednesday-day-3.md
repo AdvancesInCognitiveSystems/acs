@@ -4,7 +4,7 @@ title:  "Wednesday, August 12th"
 permalink: /day3/
 ---
 
-Please note that all times are Pacific Time (GMT-7). Please watch the [recorded talks](https://www.youtube.com/watch?v=Dz7URwhl_dE&list=PL-1wKlUbAzGQ3DhB9ZSMre9Z9lmQ0Wpdh). 
+Please note that all times are Pacific Time (GMT-7). You can watch the [recorded talks](https://www.youtube.com/watch?v=Dz7URwhl_dE&list=PL-1wKlUbAzGQ3DhB9ZSMre9Z9lmQ0Wpdh) for this day.
 
 7:00 am - 8:00 am, Student Mentoring Session
 ----
