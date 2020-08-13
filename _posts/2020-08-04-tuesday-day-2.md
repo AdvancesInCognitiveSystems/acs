@@ -4,7 +4,7 @@ title:  "Tuesday, August 11th"
 permalink: /day2/
 ---
 
-Please note that all times are Pacific Time (GMT-7). You can watch the [recorded talks](https://www.youtube.com/watch?v=cISkQ1MaFk4&list=PL-1wKlUbAzGSsSCFlU4XNrZ0dtrPztFkT) and interact with the speakers on highlighted slack channels.
+Please note that all times are Pacific Time (GMT-7). You can watch the [recorded talks](https://www.youtube.com/watch?v=cISkQ1MaFk4&list=PL-1wKlUbAzGSsSCFlU4XNrZ0dtrPztFkT) for this day.
 
 7:00 am - 8:00 am, Student Mentoring Session
 ----
